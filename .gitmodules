@@ -1,0 +1,3 @@
+[submodule "rpm"]
+	path = rpm
+	url = git@github.com:sailfishos/rust.git
